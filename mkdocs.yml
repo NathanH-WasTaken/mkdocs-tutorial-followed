@@ -26,7 +26,7 @@ theme:
       primary: blue
       accent: deep orange
 
-nav:
+nav: # Configure order of navigation
   - index.md
   - create-list.md
   - integrate-apps.md
