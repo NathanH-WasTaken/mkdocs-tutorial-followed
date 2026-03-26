@@ -6,21 +6,21 @@ with each other by organizing tasks and information into lists with cards to eas
 
 ---
 
----
+
 ## Intended Users
 - Software developers needing to organize information
 - Users with little knowledge in how to use Trello
 
 ---
 
----
+
 ## Prerequisite Knowledge
 - Have an account on the trello website.
 - Have a trello page opened.
 
 ---
 
----
+
 ## Software Requirements
 
 Before using these instructions, ensure you have the following:
@@ -52,6 +52,8 @@ These instructions use the following typographic conventions:
 | **User Input:** Text you need to type yourself is shown in italics. | *My Project Board*, *To Do*, *In Progress* |
 
 ---
+
+
 ## Notes and Warning Messages
 
 Throughout the documentation, we will use message blocks to inform you of relevant information. 
