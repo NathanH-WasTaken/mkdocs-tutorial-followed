@@ -1,16 +1,22 @@
 # Introduction
 This is a guide for users to flesh out their very own Trello page. Trello is website used for users to collaborate
-with each other by organizing tasks and information into lists with cards to easily view.
+with each other by organizing tasks and information into lists with cards to easily view. 
+
+---
 
 
 # Intended Users
 - Software developers needing to organize information
 - Users with little knowledge in how to use Trello
 
+---
+
 
 # Prerequisite Knowledge
 - Have an account on the trello website.
 - Have a trello page opened.
+
+---
 
 
 # Software Requirements
@@ -22,6 +28,15 @@ Before using these instructions, ensure you have the following:
 - A Trello account (free accounts are accepted)
 
 ---
+
+
+# Overview
+This guide will teach users how to:
+1. Create and populate a list.
+2. Integrate Slack/Discord into Trello.
+3. Task 3
+4. Task 4
+
 
 ## Notes and Warning Messages
 
@@ -40,22 +55,3 @@ Each possible message block, from most important to least important:
 !!! success "Success"
     Indicates what success looks like.
 
-# Overview
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-mk
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-I like to drink :milk: at my :house:
