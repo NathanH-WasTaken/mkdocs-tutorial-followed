@@ -39,7 +39,7 @@ This guide will teach users how to:
 3. Task 3
 4. Task 4
 
-
+---
 ## Typographical Conventions
 
 These instructions use the following typographic conventions:
@@ -70,6 +70,5 @@ Each possible message block, from most important to least important:
 
 !!! success "Success"
     Indicates what success looks like.
-
 
 ---
