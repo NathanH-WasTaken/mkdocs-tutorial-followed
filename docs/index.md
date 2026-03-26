@@ -1,16 +1,18 @@
 # Introduction
-This is a guide on how to flesh out your very own trello page on the trello website! :smile:
+This is a guide for users to flesh out their very own Trello page. Trello is website used for users to collaborate
+with each other by organizing tasks and information into lists with cards to easily view. 
 
 
 # Intended Users
-
+- Software developers needing to organize information
+- Users with little knowledge in how to use Trello
 
 # Prerequisite Knowledge
 - Have an account on the trello website.
+- Have a trello page opened.
 
 
 # Software Requirements
-
 
 # 
 
