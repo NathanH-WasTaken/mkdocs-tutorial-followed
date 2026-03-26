@@ -1,25 +1,27 @@
-# Introduction
+# Home
+
+## Introduction
 This is a guide for users to flesh out their very own Trello page. Trello is website used for users to collaborate
 with each other by organizing tasks and information into lists with cards to easily view. 
 
 ---
 
-
-# Intended Users
+---
+## Intended Users
 - Software developers needing to organize information
 - Users with little knowledge in how to use Trello
 
 ---
 
-
-# Prerequisite Knowledge
+---
+## Prerequisite Knowledge
 - Have an account on the trello website.
 - Have a trello page opened.
 
 ---
 
-
-# Software Requirements
+---
+## Software Requirements
 
 Before using these instructions, ensure you have the following:
 
@@ -38,6 +40,18 @@ This guide will teach users how to:
 4. Task 4
 
 
+## Typographical Conventions
+
+These instructions use the following typographic conventions:
+
+| Convention Explanation | Examples |
+|---|---|
+| **Commands & Actions:** Bolded verbs are commands or actions you need to perform. | **Click, Select, Type, Drag, Open, Add** |
+| **UI Elements:** Interface elements such as buttons and labels are enclosed in square brackets. | [Create Board], [Add a card], [Workspace] |
+| **Menu & Button Sequence:** The → symbol indicates the flow of menu or button click actions. | [Workspace] → [Settings] → [Visibility] |
+| **User Input:** Text you need to type yourself is shown in italics. | *My Project Board*, *To Do*, *In Progress* |
+
+---
 ## Notes and Warning Messages
 
 Throughout the documentation, we will use message blocks to inform you of relevant information. 
@@ -55,3 +69,5 @@ Each possible message block, from most important to least important:
 !!! success "Success"
     Indicates what success looks like.
 
+
+---
