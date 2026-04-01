@@ -7,7 +7,6 @@ board so they can view, edit, and be assigned cards. By the end of
 this task, your teammate will have access to your board and be ready
 to collaborate.
 
----
 
 ## Adding a Member to Your Board
 
@@ -82,7 +81,6 @@ to collaborate.
 11. **Click** on your teammate's profile picture to confirm their
     role shows as [Member].
 
----
 
 ## Conclusion
 
