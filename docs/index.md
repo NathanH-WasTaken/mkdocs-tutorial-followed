@@ -35,7 +35,6 @@ This guide will teach users how to:
 
 4. Task 4
 
-
 ## Typographical Conventions
 
 These instructions use the following typographic conventions:
