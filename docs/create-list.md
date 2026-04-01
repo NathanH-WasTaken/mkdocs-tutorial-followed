@@ -21,7 +21,7 @@ details of each task clearly.
     If the top left of your Trello board looks like this, you have succeeded.
 
     ![Image of a successfully created list](assets/ListSuccess.png "A successfully created list"){ width="400"}
-mkd
+
 ## Creating a Card
 
 1. **Click** the [Add a card] text that appears below the newly created list.
