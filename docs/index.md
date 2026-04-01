@@ -27,11 +27,11 @@ Before using these instructions, ensure you have the following:
 ## Overview
 This guide will teach users how to:
 
-1. Create and populate a list.
+1. [Add a member to your Trello board](add-member-to-board.md)
 
-2. Integrate Slack/Discord into Trello.
+2. [Create and populate a list](create-list.md)
 
-3. Task 3
+3. Integrate Slack/Discord into Trello
 
 4. Task 4
 
