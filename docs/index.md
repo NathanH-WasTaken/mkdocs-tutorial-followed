@@ -26,9 +26,13 @@ Before using these instructions, ensure you have the following:
 
 ## Overview
 This guide will teach users how to:
+
 1. Create and populate a list.
+
 2. Integrate Slack/Discord into Trello.
+
 3. Task 3
+
 4. Task 4
 
 
