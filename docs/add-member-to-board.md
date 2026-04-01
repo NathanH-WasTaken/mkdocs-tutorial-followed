@@ -1,4 +1,4 @@
-# How to Add a Member to Your Board in Trello
+# Add a member to your Trello board
 
 ## Overview
 
@@ -15,22 +15,19 @@ to collaborate.
 
     At this point, you will land on your Trello home dashboard.
 
-    ![Trello home dashboard](../assets/dashboard.png)
-    *Figure 1 - Trello home dashboard after logging in.*
+    ![Trello home dashboard](../assets/dashboard.png "Trello home dashboard after logging in")
     
 3. **Click** on the board you want to add a member to.
 
     At this point, the board will open and you will see all your lists
     and cards.
 
-    ![Trello board open](../assets/board-open.png)
-    *Figure 2 - An open Trello board with lists and cards visible.*
+    ![Trello board open](../assets/board-open.png "An open Trello board with lists and cards visible")
 
 4. **Click** [Share] in the top right corner of the board.
 
-    ![Share button highlighted in top right corner](../assets/share-button.png)
-    *Figure 3 - The Share button located in the top right corner
-    of the board.*
+    ![Share button highlighted in top right corner](../assets/share-button.png "The Share button located in the top right corner
+    of the board ")
 
 5. **Type** your teammate's email address or Trello username in the
    search field.
@@ -40,9 +37,8 @@ to collaborate.
         will receive an email invitation to join Trello and your board
         at the same time.
 
-    ![Search field with teammate email typed in](../assets/search-member.png)
-    *Figure 4 - The member search field with a teammate's email
-    entered.*
+    ![Search field with teammate email typed in](../assets/search-member.png "The member search field with a teammate's email
+    entered")
 
 6. **Click** on your teammate's name when it appears in the search
    results.
@@ -69,9 +65,9 @@ to collaborate.
     At this point, you should see your teammate's profile picture
     appear alongside yours in the board header.
 
-    ![Board header showing multiple member profile pictures](../assets/members-added.png)
-    *Figure 5 - The board header showing both members' profile
-    pictures confirming the invite was accepted.*
+    ![Board header showing multiple member profile pictures](../assets/members-added.png "The board header showing both members' profile
+    pictures confirming the invite was accepted")
+ 
 
 !!! warning "Warning"
     If your teammate's profile picture does not appear immediately,
