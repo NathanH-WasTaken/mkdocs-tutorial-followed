@@ -4,21 +4,15 @@
 This is a guide for users to flesh out their very own Trello page. Trello is website used for users to collaborate
 with each other by organizing tasks and information into lists with cards to easily view. 
 
----
-
 
 ## Intended Users
 - Software developers needing to organize information
 - Users with little knowledge in how to use Trello
 
----
-
 
 ## Prerequisite Knowledge
 - Have an account on the trello website.
 - Have a trello page opened.
-
----
 
 
 ## Software Requirements
@@ -29,17 +23,19 @@ Before using these instructions, ensure you have the following:
 - A stable internet connection
 - A Trello account (free accounts are accepted)
 
----
-
 
 ## Overview
 This guide will teach users how to:
+
 1. Create and populate a list.
+
 2. Integrate Slack/Discord into Trello.
+
 3. Task 3
+
 4. Task 4
 
----
+
 ## Typographical Conventions
 
 These instructions use the following typographic conventions:
@@ -50,8 +46,6 @@ These instructions use the following typographic conventions:
 | **UI Elements:** Interface elements such as buttons and labels are enclosed in square brackets. | [Create Board], [Add a card], [Workspace] |
 | **Menu & Button Sequence:** The → symbol indicates the flow of menu or button click actions. | [Workspace] → [Settings] → [Visibility] |
 | **User Input:** Text you need to type yourself is shown in italics. | *My Project Board*, *To Do*, *In Progress* |
-
----
 
 
 ## Notes and Warning Messages
@@ -70,5 +64,3 @@ Each possible message block, from most important to least important:
 
 !!! success "Success"
     Indicates what success looks like.
-
----
