@@ -17,11 +17,25 @@ details of each task clearly.
 
 3. **Click** the [Add list] box in blue.
 
+!!! success "Success"
+    If the top left of your Trello board looks like this, you have succeeded.
+
+    ![Image of a successfully created list](assets/ListSuccess.png){ width="400"}
+
 ## Creating a Card
 
 1. **Click** the [Add a card] text that appears below the newly created list.
 
 2. **Type** A meaningful title for a task where it prompts you to enter a title (e.g. Create Home Page).
+
+3. **Click** the [Add card] box.
+
+4. (Optional) Repeat tasks 1-3 to create as many cards of tasks as you want. Move on when finished.
+
+!!! success "Success"
+    If the list looks like this, you have succeeded.
+
+    ![Image of a successfully created list](assets/CardSuccess.png){ height="200" }
 
 ## Card Customization
 
@@ -40,6 +54,15 @@ details of each task clearly.
 7. **Click** Save.
 
 8. **Click** the  :octicons-x-12:  icon on the top right of the card when finished.
+
+9. (Optional) Repeat tasks 1-8 for each card you want to customize. Move on when finished.
+
+!!! success "Success"
+    If the list looks like this, you have succeeded.
+
+    ![Image of a successfully created list](assets/CustomizeSuccess.png){ height="200" }
+
+
 
 
 
