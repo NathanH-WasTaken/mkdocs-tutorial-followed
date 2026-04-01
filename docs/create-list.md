@@ -20,8 +20,8 @@ details of each task clearly.
 !!! success "Success"
     If the top left of your Trello board looks like this, you have succeeded.
 
-    ![Image of a successfully created list](assets/ListSuccess.png){ width="400"}
-
+    ![Image of a successfully created list](assets/ListSuccess.png "A successfully created list"){ width="400"}
+mkd
 ## Creating a Card
 
 1. **Click** the [Add a card] text that appears below the newly created list.
@@ -35,7 +35,7 @@ details of each task clearly.
 !!! success "Success"
     If the list looks like this, you have succeeded.
 
-    ![Image of a successfully created list](assets/CardSuccess.png){ height="200" }
+    ![Image of a successfully created list](assets/CardSuccess.png "A list of succesfully created cards"){ height="200" }
 
 ## Customizing a Card
 
@@ -60,7 +60,7 @@ details of each task clearly.
 !!! success "Success"
     If the cards look like this, you have succeeded.
 
-    ![Image of a successfully created list](assets/CustomizeSuccess.png){ height="200" }
+    ![Image of a successfully created list](assets/CustomizeSuccess.png "A list of successfully customized cards"){ height="200" }
 
 
 ## Conclusion

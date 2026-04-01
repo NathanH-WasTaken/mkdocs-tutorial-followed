@@ -7,7 +7,7 @@ with each other by organizing tasks and information into lists with cards to eas
 
 ## Intended Users
 - Software developers needing to organize information
-- Users with little knowledge in how to use Trello
+- Users with no knowledge in how to use Trello
 
 
 ## Prerequisite Knowledge
