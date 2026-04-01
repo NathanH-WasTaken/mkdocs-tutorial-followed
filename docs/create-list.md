@@ -11,11 +11,10 @@ details of each task clearly.
 
 ## Creating a list
 
-1. **Click** the [Add a list] box located in the top left under your Trello board name.
+1. **Click** [Add a list] located in the top left under your Trello board name.
 
-2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List).
+2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List), then **Click** [Add list].
 
-3. **Click** the [Add list] box in blue.
 
 !!! success "Success"
     If the top left of your Trello board looks like this, you have succeeded.
@@ -24,13 +23,11 @@ details of each task clearly.
 
 ## Creating a Card
 
-1. **Click** the [Add a card] text that appears below the newly created list.
+1. **Click** [Add a card] which appears below the newly created list.
 
-2. **Type** A meaningful title for a task where it prompts you to enter a title (e.g. Create Home Page).
+2. **Type** A meaningful title for a task where it prompts you to enter a title (e.g. Create Home Page), then **click** [Add card].
 
-3. **Click** the [Add card] box.
-
-4. (Optional) Repeat tasks 1-3 to create as many cards of tasks as you want. Move on when finished.
+3. (Optional) Repeat tasks 1-2 to create as many cards of tasks as you want. Move on when finished.
 
 !!! success "Success"
     If the list looks like this, you have succeeded.
@@ -41,15 +38,15 @@ details of each task clearly.
 
 1. On a pre-existing card, **hover** over the [Card Name] and **click** on the  :fontawesome-solid-edit:  icon that appears on the top right of the card.
 
-2. **Click** on the [Open card] box from the menu that appeared beside the card.
+2. **Click** [Open card] from the menu that appeared beside the card.
 
-3. **Click** the [Labels] box, and then **click** the [Create a new label] box.
+3. **Click** [Labels] and then **click** [Create a new label].
 
 4. **Type** a meaningful title to identify the task and choose a colour.
 
 5. **Click** [Create] when finished.
 
-6. **Click** the [Dates] box, and choose or enter a date for when the task is due.
+6. **Click** [Dates] and choose or enter a date for when the task is due.
 
 7. **Click** Save.
 
