@@ -2,7 +2,7 @@
 
 ## Overview
 
-These few shorts will teach you how to create a To-Do List in Trello. This is a staple addition for team collaboration so that all members
+These few short steps will teach you how to create a To-Do List in Trello. This is a staple addition for team collaboration so that all members
 can actively see the tasks that they need to do. The list will include tasks in the form of cards where your team members can see specific 
 details of each task clearly.
 
@@ -13,7 +13,7 @@ details of each task clearly.
 
 1. **Click** [Add a list] located in the top left under your Trello board name.
 
-2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List), then **Click** [Add list].
+2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List), then **click** [Add list].
 
 
 !!! success "Success"
