@@ -25,14 +25,13 @@ Before using these instructions, ensure you have the following:
 
 ## Overview
 This guide will teach users how to:
+1. [Creating a Board From a Template](create-board-from-template.md)
 
-1. [Add a member to your Trello board](add-member-to-board.md)
+2. [Creating a To Do list](create-list.md)
 
-2. [Create and populate a list](create-list.md)
+3. [Adding member to your Trello board](add-member-to-board.md)
 
-3. [Integrate Slack/Discord into Trello](integrate-slack.md)
-
-4. [Create a Board From a Template](create-board-from-template.md)
+4. [Integrate Slack into Trello](integrate-slack.md)
 
 ## Typographical Conventions
 
@@ -42,7 +41,6 @@ These instructions use the following typographic conventions:
 |---|---|
 | **Commands & Actions:** Bolded verbs are commands or actions you need to perform. | **Click, Select, Type, Drag, Open, Add** |
 | **UI Elements:** Interface elements such as buttons and labels are enclosed in square brackets. | [Create Board], [Add a card], [Workspace] |
-| **Menu & Button Sequence:** The → symbol indicates the flow of menu or button click actions. | [Workspace] → [Settings] → [Visibility] |
 | **User Input:** Text you need to type yourself is shown in italics. | *My Project Board*, *To Do*, *In Progress* |
 
 
@@ -51,8 +49,6 @@ These instructions use the following typographic conventions:
 Throughout the documentation, we will use message blocks to inform you of relevant information. 
 
 Each possible message block, from most important to least important:
-!!! danger "Danger"
-    Specifies actions that may cause an error or will cause the application to crash.
 
 !!! warning "Warning"
     Specifies content that must be read before proceeding.
