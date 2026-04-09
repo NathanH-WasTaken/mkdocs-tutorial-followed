@@ -10,7 +10,9 @@ This section will teach you how to connect Trello to your [Slack account](https:
 
 2. **Click** the :material-power-plug-outline: icon in the top-right menu, then **click** [Add Power-Ups] within the pop-up.
 
-3. Search for Slack using the Search bar.
+3. Search for Slack using the search bar.
+
+    ![Image of searching Slack in the search bar](assets/search-slack.png "Entering "Slack" into the search bar"){ height="200" }
 
 4. Once found, **click** on Slack and then **click** [Add].
 

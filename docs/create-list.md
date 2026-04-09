@@ -38,13 +38,20 @@ details of each task clearly.
 
 1. On a pre-existing card, **hover** over the [Card Name] and **click** on the  :fontawesome-solid-edit:  icon that appears on the top right of the card.
 
+    ![Image of mouse hovering over the [edit card] icon](assets/click-edit-card.png "The [edit card] icon"){ height="200" }
+
 2. **Click** [Open card] from the menu that appeared beside the card.
 
 3. **Click** [Labels] and then **click** [Create a new label].
 
+    ![Image navigating to the [Create a new label] prompt](assets/go-to-labels.png "Navigating to create a label"){ height="200" }
+
+
 4. **Type** a meaningful title to identify the task and choose a colour.
 
 5. **Click** [Create] when finished.
+
+    ![Image of filling out the options within label creation](assets/creating-label.png "Finishing creating the label of a card"){ height="200" }
 
 6. **Click** [Dates] and choose or enter a date for when the task is due.
 
