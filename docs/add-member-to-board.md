@@ -69,10 +69,10 @@ to collaborate.
     pictures confirming the invite was accepted")
  
 
-!!! warning "Warning"
-    If your teammate's profile picture does not appear immediately,
-    they may not have accepted the invite yet. Ask them to check
-    their email inbox including their spam folder.
+    !!! warning "Warning"
+        If your teammate's profile picture does not appear immediately,
+        they may not have accepted the invite yet. Ask them to check
+        their email inbox including their spam folder.
 
 11. **Click** on your teammate's profile picture to confirm their
     role shows as [Member].
@@ -86,5 +86,4 @@ under [Members].
 
 !!! success "Success"
     Your teammate now has access to the board and can be assigned
-    cards. To assign them a card, see
-    [How to Create and Assign a Card to a Teammate].
+    cards.
