@@ -1,6 +1,6 @@
 ## Introduction
 This is a guide for users to flesh out their very own [Trello](https://www.trello.com) page. Trello is website used for users to collaborate
-with each other by organizing tasks and information into lists with cards to easily view. 
+with each other by organizing tasks and information into lists with cards to easily view. It has a wide variety of features such as pre-made board templates, integrating apps like [Slack](https://slack.com/), and managing your own lists and members. This documentation guide will teach you some of the basics of Trello to ensure you can be ready to use this website for your projects.
 
 
 ## Intended Users
