@@ -1,4 +1,4 @@
-# Add a member to your Trello board
+# Adding a member to your Trello board
 
 ## Overview
 
