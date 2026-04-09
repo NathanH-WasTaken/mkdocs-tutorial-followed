@@ -31,7 +31,7 @@ nav: # Configure order of navigation
   - add-member-to-board.md
   - create-list.md
   - create-board-from-template.md
-  - integrate-apps.md
+  - integrate-slack.md
   - troubleshooting.md
   - glossary.md
 
