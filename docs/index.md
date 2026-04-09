@@ -1,5 +1,5 @@
 ## Introduction
-This is a guide for users to flesh out their very own Trello page. Trello is website used for users to collaborate
+This is a guide for users to flesh out their very own [Trello](https://www.trello.com) page. Trello is website used for users to collaborate
 with each other by organizing tasks and information into lists with cards to easily view. 
 
 
@@ -29,9 +29,9 @@ This guide will teach users how to:
 
 2. [Create and populate a list](create-list.md)
 
-3. Integrate Slack/Discord into Trello
+3. [Integrate Slack/Discord into Trello](integrate-apps.md)
 
-4. Task 4
+4. [Create a Board From a Template](create-board-from-template.md)
 
 ## Typographical Conventions
 
