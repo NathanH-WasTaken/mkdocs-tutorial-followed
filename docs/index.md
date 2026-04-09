@@ -11,6 +11,7 @@ with each other by organizing tasks and information into lists with cards to eas
 ## Prerequisite Knowledge
 - Have an account on the trello website.
 - Have a trello page opened.
+- Have a [Slack account](https://slack.com/).
 
 
 ## Software Requirements
@@ -29,7 +30,7 @@ This guide will teach users how to:
 
 2. [Create and populate a list](create-list.md)
 
-3. [Integrate Slack/Discord into Trello](integrate-apps.md)
+3. [Integrate Slack/Discord into Trello](integrate-slack.md)
 
 4. [Create a Board From a Template](create-board-from-template.md)
 

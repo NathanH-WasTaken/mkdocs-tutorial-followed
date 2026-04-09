@@ -1,4 +1,4 @@
-# Integrating Apps
+# Integrating Slack 
 
 ## Overview
 
@@ -16,7 +16,7 @@ This section will teach you how to connect Trello to your [Slack account](https:
 
 4. Once found, **click** on Slack and then **click** [Add].
 
-5. Sign in to your Slack workspace.
+5. Sign in to your Slack workspace, if no such prompt appears, you may skip this step and step 6.
 
 6. Authorize Trello to access your Slack account.
 
@@ -32,7 +32,7 @@ This section will teach you how to connect Trello to your [Slack account](https:
 2. **Click** [Power-ups] on the card.
 
     !!! warning "Warning"
-        If your pop-up looks like the image below after completing step 2, then you must **click** [Link Your Trello Account] and follow those steps before proceeding.
+        If your pop-up looks like the image below after completing step 2, then you must **click** [Link Your Trello Account] and follow those steps before proceeding. See the [troubleshooting](troubleshooting.md) page for more info.
 
         ![Image when slack account has not been linked to trello yet](assets/link-account.png "The view for unlinked accounts"){ width="400"}
 
