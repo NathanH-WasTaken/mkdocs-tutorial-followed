@@ -10,18 +10,6 @@ solution.
     additional support.
 
 ---
-
-## Adding a Member to Your Board
-
-| Problem | Possible Cause | Solution |
-|---|---|---|
-| Your teammate did not receive the invitation email. | The invitation went to their spam or junk folder, or the wrong email was entered. | Ask your teammate to check their spam folder. If the email was wrong, re-enter the correct address and **click** [Send invite] again. |
-| Your teammate's profile picture does not appear after sending the invite. | Your teammate has not yet accepted the invitation. | Ask your teammate to accept the invitation from their email. Their profile picture will appear on the board once they accept. |
-| The search field does not find your teammate's name. | Your teammate does not have a Trello account yet. | Ask your teammate to create a free Trello account at [trello.com](https://www.trello.com) first, then retry adding them. |
-| You accidentally assigned your teammate the [Admin] role. | Wrong role was selected from the dropdown. | **Click** [Members] in the board header, **click** your teammate's profile picture, **click** [Change permissions], and **select** [Member]. |
-
----
-
 ## Creating a Board from a Template
 
 | Problem | Possible Cause | Solution |
@@ -42,6 +30,16 @@ solution.
 | A card you created has disappeared. | The card may have been archived accidentally. | **Click** [...] on the list, **select** [Archived items], find the card, and **click** [Send to board] to restore it. |
 | The due date is not saving on a card. | The [Save] button was not clicked after selecting the date. | Reopen the card, **click** [Dates], set the date again, and **click** [Save] before closing. |
 | A label colour you created is not showing on the card. | The label was created but not selected on the card. | **Open** the card, **click** [Labels], and **click** the label you created to apply it. A checkmark will appear when it is active. |
+
+---
+## Adding a Member to Your Board
+
+| Problem | Possible Cause | Solution |
+|---|---|---|
+| Your teammate did not receive the invitation email. | The invitation went to their spam or junk folder, or the wrong email was entered. | Ask your teammate to check their spam folder. If the email was wrong, re-enter the correct address and **click** [Send invite] again. |
+| Your teammate's profile picture does not appear after sending the invite. | Your teammate has not yet accepted the invitation. | Ask your teammate to accept the invitation from their email. Their profile picture will appear on the board once they accept. |
+| The search field does not find your teammate's name. | Your teammate does not have a Trello account yet. | Ask your teammate to create a free Trello account at [trello.com](https://www.trello.com) first, then retry adding them. |
+| You accidentally assigned your teammate the [Admin] role. | Wrong role was selected from the dropdown. | **Click** [Members] in the board header, **click** your teammate's profile picture, **click** [Change permissions], and **select** [Member]. |
 
 ---
 

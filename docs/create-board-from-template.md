@@ -74,8 +74,7 @@ saving you the time of building a board from scratch.
     ![Board title field and visibility dropdown](../assets/board-title.png "The board title field and visibility set to Private.")
 
 10. **Click** [Keep cards] if you want to keep the sample cards
-    from the template, or **click** [Remove cards] to start with
-    empty lists only.
+    from the template.
 
     !!! info "Info"
         For a first-time setup, keeping the sample cards is
